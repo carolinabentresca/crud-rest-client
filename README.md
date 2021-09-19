@@ -1,18 +1,9 @@
-# crud-rest-client
+# Crud-REST-Client
 
-# TEMA : ClientREST
-
-#PROYECTO  JAVA :  Java Application
-
-#PAQUETE "Modelo" :
-
-  - CLASE "usuario" :   Clase entidad, de la tabla "usuario".
-  
-  - CLASE  "usuarioClient" :   Se crea el ClientRest para consumir los métodos
-           generados("GetAll","GetById","Post","Put","Delete").
-           
-#PAQUETE "crudconrestcon" : 
-
-  - CLASE "CrudconRestCon" :   Se instancia la clase "usuarioClient", y se ejecuta el 
-          proyecto en el método main.
+### Proyecto Java / Java Application
+## Consumir Servicios REST
+  - #### Clase Entidad,"usuario", de la tabla "usuario"
+  - #### Clase "usuarioClient", crea el ClientRest
+  - #### Consumir los métodos generados ("GetAll","GetById","Post","Put","Delete")
+ 
     
